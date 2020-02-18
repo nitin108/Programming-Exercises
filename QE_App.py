@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 """
-This program computes for a given sample: Average siblings, Favourite foods and Births per month
-Usage: QE_App.py inputfile.json/csv
+This program computes for a given sample: Average number of siblings, Top three favourite foods and Births per month
+Usage: QE_App.py inputfile.json or QE_App.py inputfile.csv
 
 The program assumes input is well-formatted and valid
 
