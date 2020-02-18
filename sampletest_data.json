@@ -1,0 +1,12 @@
+[
+{ "first_name": "LEONEL", "last_name": "FERREL", "siblings": "1", "favourite_food": "Meatballs", "birth_timezone": "-01:00", "birth_timestamp": "917172960000" },
+{ "first_name": "SHANNA", "last_name": "HILYER", "siblings": "5", "favourite_food": "Meatballs", "birth_timezone": "-05:00", "birth_timestamp": "816072160000" },
+{ "first_name": "CARLI", "last_name": "NEWKIRK", "siblings": "5", "favourite_food": "Candy", "birth_timezone": "+01:00", "birth_timestamp": "690794820000" },
+{ "first_name": "HASSIE", "last_name": "GASTELUM", "siblings": "1", "favourite_food": "Salsa", "birth_timezone": "+04:00", "birth_timestamp": "286265820000" },
+{ "first_name": "BLAKE", "last_name": "MCCLOSKY", "siblings": "3", "favourite_food": "Banana", "birth_timezone": "+06:00", "birth_timestamp": "948533880000" },
+{ "first_name": "DARIUS", "last_name": "OSMUN", "siblings": "2", "favourite_food": "Lobster", "birth_timezone": "-07:00", "birth_timestamp": "315512760000" },
+{ "first_name": "EVAN", "last_name": "GAGLIARDI", "siblings": "5", "favourite_food": "Potato chips", "birth_timezone": "+04:00", "birth_timestamp": "253430220000" },
+{ "first_name": "ALLENA", "last_name": "BARKDOLL", "siblings": "1", "favourite_food": "steak", "birth_timezone": "-09:00", "birth_timestamp": "636275140000" },
+{ "first_name": "CANDIE", "last_name": "ASHLOCK", "siblings": "1", "favourite_food": "Popcorn", "birth_timezone": "-08:00", "birth_timestamp": "31680060000" },
+{ "first_name": "CARLETTA", "last_name": "FREIBERG", "siblings": "1", "favourite_food": "steak", "birth_timezone": "-06:00", "birth_timestamp": "32623740000" }
+]
